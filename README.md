@@ -3,7 +3,7 @@ Web Crawler for Crawling any of the site using Form UI.
 
 This project will give you the sitemap which will be outputted after crawling the site which you want as show below.
 
-![alt text] https://github.com/SridharSharmaRamamurthy/Java-Web-Crawler/blob/master/src/main/resources/static/images/Crawl-Form.png
+![alt text] (https://github.com/SridharSharmaRamamurthy/Java-Web-Crawler/blob/master/src/main/resources/static/images/Crawl-Form.png)
 
 # Building the Project
 This is a Maven Project so to build the project we require maven installed on the system/IDE and then using command maven clean install will build the application.
